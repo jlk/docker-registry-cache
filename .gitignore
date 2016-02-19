@@ -1,0 +1,4 @@
+.vagrant
+.bundle
+data/docker
+data/scheduler-state.json
